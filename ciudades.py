@@ -1,6 +1,6 @@
 #ciudades
 
-print("aurauca")
+print("manizales")
 print("cali")
 print("ibago")
 print("medallo")
